@@ -3,7 +3,7 @@
 Hello! I am Dr Felix Okunlola. This repository holds my work for the course 
 **Python for Health Data Science and Machine Learning**. 
 
-## My progress 
+## My progress
 
 | Notebook | Topic | Status | 
 |---|---|---| 
