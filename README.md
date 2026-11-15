@@ -1,4 +1,7 @@
-# My BioMetrics & HealthData Hub notebooks Hello! I am Dr Felix Okunlola. This repository holds my work for the course **Python for Health Data Science and Machine Learning**. 
+# My BioMetrics & HealthData Hub notebooks 
+
+Hello! I am Dr Felix Okunlola. This repository holds my work for the course 
+**Python for Health Data Science and Machine Learning**. 
 
 ## My progress 
 
