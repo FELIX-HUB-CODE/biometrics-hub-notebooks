@@ -7,7 +7,7 @@ Hello! I am Dr Felix Okunlola. This repository holds my work for the course
 
 | Notebook | Topic | Status | 
 |---|---|---| 
-| 1 | Python and Data Analysis Foundations | Submitted | 
+| 1 | Python and Data Analysis Foundations | completed | 
 | 2 | Exploratory Data Analysis and Statistical Reasoning | Not started | 
 | 3 | Feature Engineering and Statistical Modelling | Not started | 
 | 4 | Supervised ML: Predicting Systolic Blood Pressure | Not started | 
